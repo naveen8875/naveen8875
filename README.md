@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @naveen8875
-- 👀 I’m interested in coding,data science and analytics 
+- 👀 I’m interested in web development and design 
 - 🌱 I’m currently pursuing Btech Computer Science
 - 💞️ I’m looking to collaborate on projects maybe
 
