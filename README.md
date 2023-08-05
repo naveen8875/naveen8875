@@ -23,5 +23,4 @@ You can click the Preview link to take a look at your changes.
 <img alt="Static Badge" src="https://img.shields.io/badge/Node%20JS-%23339933?logo=nodedotjs&logoColor=white">
 <img alt="Static Badge" src="https://img.shields.io/badge/React%20JS-%2361DAFB?logo=react&logoColor=white">
 <img alt="Static Badge" src="https://img.shields.io/badge/Mongo%20DB-%2347A248?logo=mongodb&logoColor=white">
-<img alt="Static Badge" src="https://img.shields.io/badge/Node%20JS-%23339933?logo=nodedotjs&logoColor=white">
 </div>
